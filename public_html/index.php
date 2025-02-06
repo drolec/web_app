@@ -103,7 +103,6 @@ require 'db_conn.php';
                 );
             });
         });
-
     </script>
 </body>
 </html>
